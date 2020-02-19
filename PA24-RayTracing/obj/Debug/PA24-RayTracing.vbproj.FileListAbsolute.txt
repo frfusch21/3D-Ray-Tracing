@@ -1,0 +1,71 @@
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe.config
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.pdb
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.xml
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbprojAssemblyReference.cache
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Form1.resources
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Resources.resources
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbproj.GenerateResource.cache
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbproj.CoreCompileInputs.cache
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.exe
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.xml
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.pdb
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe.config
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.pdb
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.xml
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbprojAssemblyReference.cache
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Form1.resources
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Resources.resources
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbproj.GenerateResource.cache
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbproj.CoreCompileInputs.cache
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.exe
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.xml
+C:\Users\Farah Yulianti\Desktop\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.pdb
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe.config
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.pdb
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.xml
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbprojAssemblyReference.cache
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Form1.resources
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Resources.resources
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbproj.GenerateResource.cache
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbproj.CoreCompileInputs.cache
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.exe
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.xml
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 2.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.pdb
+G:\Kuliah\3DCGA\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe.config
+G:\Kuliah\3DCGA\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe
+G:\Kuliah\3DCGA\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.pdb
+G:\Kuliah\3DCGA\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.xml
+G:\Kuliah\3DCGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbprojAssemblyReference.cache
+G:\Kuliah\3DCGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Form1.resources
+G:\Kuliah\3DCGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Resources.resources
+G:\Kuliah\3DCGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbproj.GenerateResource.cache
+G:\Kuliah\3DCGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.exe
+G:\Kuliah\3DCGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.xml
+G:\Kuliah\3DCGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.pdb
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe.config
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.pdb
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.xml
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbprojAssemblyReference.cache
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Form1.resources
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Resources.resources
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbproj.GenerateResource.cache
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbproj.CoreCompileInputs.cache
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.exe
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.xml
+D:\PU\Class\7th Semester\3D Computer Graphic & Animations\ray tracing 3.0\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.pdb
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe.config
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.exe
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.pdb
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\bin\Debug\PA24-RayTracing.xml
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbprojAssemblyReference.cache
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Form1.resources
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24_RayTracing.Resources.resources
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbproj.GenerateResource.cache
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.vbproj.CoreCompileInputs.cache
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.exe
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.xml
+C:\Users\Farah Yulianti\Documents\PU\Semester 7\3D CGA\PA24-RayTracing\PA24-RayTracing\obj\Debug\PA24-RayTracing.pdb
